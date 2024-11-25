@@ -13,11 +13,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-n4__ga+4an7_lh_3)47$ap3(g@z@g$zd^i9=e@as0fvg#2-4(w'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["92.222.216.193", ".cangt.fr"]
 
-ALLOWED_HOSTS = ["jeux-poissons.onrender.com"]
+# ALLOWED_HOSTS = ["jeux-poissons.onrender.com"]
 # https://jeux-poissons.onrender.com
 
 # Application definition

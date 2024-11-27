@@ -16,9 +16,9 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['srv653590.hstgr.cloud', 'localhost']
+# ALLOWED_HOSTS = ['srv653590.hstgr.cloud', 'localhost']
 
-# ALLOWED_HOSTS = ["jeux-poissons.onrender.com"]
+ALLOWED_HOSTS = ["jeux-poissons.onrender.com"]
 # https://jeux-poissons.onrender.com
 
 # Application definition

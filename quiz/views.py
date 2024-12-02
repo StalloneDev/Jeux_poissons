@@ -6,10 +6,10 @@ questions = [
     {
         'id': 1,
         'question': "Quel poisson anime les récifs dès 3 m de profondeur ?",
-        'options': ['ChirugienBlue.png', 'coffreMouton.png', 'papillon.png', 'pastenague.png'],
-        'correct': 'ChirugienBlue.png',
+        'options': ['Chirigurien.jpg', 'Coffre-Mouton.jpg', 'Pyjama.jpg', 'Pastenagues.jpg'],
+        'correct': 'Chirigurien.jpg',
         'info': {
-            'nom': "Chirurgien Bleu",
+            'nom': "Chirugien Bleu",
             'habitat': "Récifs coralliens dès 3 mètres de profondeur.",
             'description': "Poisson au corps ovale de couleur bleue vive avec une queue jaune. Ce poisson joue un rôle important dans la gestion des algues sur les récifs coralliens.",
             'habitudes': "Grégaire, il vit souvent en petits groupes. Il se nourrit d'algues, jouant un rôle essentiel dans le maintien de la santé des récifs coralliens."
